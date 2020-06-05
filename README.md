@@ -8,5 +8,5 @@ Ignore the graph part. Its just a random accuracy test. You can change the value
 A hybrid algorithm is used for finding the movie recommendations for the user.                                                            
 The hybrid algorithm is mixture of content based and collaboration algorithms.
 
-u.data contains Users 
+u.data contains Users                                                                                                                     
 u.items contains Movies
