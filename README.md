@@ -7,3 +7,6 @@ The similarity can be found through 5 different formulas, such as Euclidiean, Ja
 Ignore the graph part. Its just a random accuracy test. You can change the values in a way to find out the actual accuracy.               
 A hybrid algorithm is used for finding the movie recommendations for the user.                                                            
 The hybrid algorithm is mixture of content based and collaboration algorithms.
+
+u.data contains Users 
+u.items contains Movies
